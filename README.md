@@ -1,5 +1,5 @@
 # StarWarsGame
-Put this together as a fun demo for a group of 4th graders!
+I put this together as a fun demo for a group of 4th graders!
 
 To run, install the required packages then navigate to /src and run main.py.
 
